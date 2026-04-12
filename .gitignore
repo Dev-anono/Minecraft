@@ -1,0 +1,14 @@
+# Игнорируем временные файлы
+*.tmp
+*.log
+.DS_Store
+
+# Исключаем полную версию (используйте для разработки)
+# js/minecraft-full.js
+
+# Node modules (если понадобится)
+node_modules/
+
+# IDE
+.vscode/
+.idea/
