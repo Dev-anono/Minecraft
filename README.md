@@ -119,3 +119,4 @@ npx serve .
 3. Commit изменения (`git commit -m 'Add amazing feature'`)
 4. Push в ветку (`git push origin feature/amazing-feature`)
 5. Откройте Pull Request
+# Minecraft Web
